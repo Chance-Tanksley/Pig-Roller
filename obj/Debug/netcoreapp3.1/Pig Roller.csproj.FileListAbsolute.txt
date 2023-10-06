@@ -1,0 +1,20 @@
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.deps.json
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.dll
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.pdb
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.csproj.AssemblyReference.cache
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig_Roller.Form1.resources
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig_Roller.Properties.Resources.resources
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.csproj.GenerateResource.cache
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.AssemblyInfoInputs.cache
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.AssemblyInfo.cs
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.csproj.CoreCompileInputs.cache
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.dll
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.pdb
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.exe
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.runtimeconfig.json
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\Pig Roller.runtimeconfig.dev.json
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig Roller.genruntimeconfig.cache
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\bin\Debug\netcoreapp3.1\en-US\Pig Roller.resources.dll
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\Pig_Roller.Form1.en-US.resources
+C:\Users\chanc\source\repos\Pig Roller\Pig Roller\obj\Debug\netcoreapp3.1\en-US\Pig Roller.resources.dll
