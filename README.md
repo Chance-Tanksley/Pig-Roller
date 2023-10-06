@@ -1,0 +1,7 @@
+# Pig-Roller
+# This is a classmate's and my personal project for the end of the school year. He loves this "dice rolling" turn based game called Pass the Pigs where you roll two pigs with dots on them instead of dice. If you have never seen or played I highly suggest it is lots of fun. 
+# The rules of the game are simple each player takes a turn. During each turn the players roll the pigs to tally up turn points. If they roll a Pig out (One pig lands on dot side and other on the opposite) or a Oinker (The pigs are touching) they pass turn and lose points. (Pig out you lose turn points and oinker you lose all points) If they roll anything else the players can choose to roll again to get more points or pass the turn to add the turn accumulated points to their overall score. First player to 100 wins. In the Pig Roller we chose to only have the two players but in Pass the Pigs you can have multiple. 
+# He wanted to make a .Net form program of the game so we started to develop it. We started with the design of the form and setting up basic buttons for the rules, point system, reset, rolling, and passing.
+# We also made text boxes to keep score for each turn and overall. We also made text boxes to display who won and how many wins they have and how many games they played. 
+# We also made a picture box and text box to display what each player rolled and the score they got. 
+# Once a player wins the form will display the winner as green and loser as red then if the players wish to play another game they can hit the reset button. 
